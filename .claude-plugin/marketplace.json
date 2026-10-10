@@ -1,0 +1,1 @@
+{"$schema":"https://json.schemastore.org/claude-code-marketplace.json","name":"lhg-plugs","owner":{"name":"刘洪光"},"plugins":[{"description":"跨境选品专家：目标市场→五维打分表→供应链 checklist→风险清单；数据需自行从平台后台核实，不做选品成败承诺","name":"lhg-product-pick","source":"./"}]}
